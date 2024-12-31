@@ -1,4 +1,4 @@
-#Salary Scribe- Project Documentation
+**#Salary Scribe- Project Documentation**
 
 📋 Project Overview
 Salary Scribe is an full-scale payroll salary sheet management application designed to calculating and automate the calculation of employee salaries. It provides detailed employee information, computes various components like basic salary, allowances, bonuses and taxes and generates comprehensive salary sheets. The application also ensures compliance with tax regulations and provides performance-based bonuses. With its user-friendly interface and modular structure, Salary Scribe enhances efficiency, transperancy and accuracy in payroll processing, making it an invaluable tool for HR and accounting departments.
