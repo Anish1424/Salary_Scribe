@@ -45,11 +45,11 @@ This testing phase aims to:
 	User input validation
 
 **Steps to run:**
-1] Open Terminal
-2] Change directory to project folder
-3] Enter the command: python file_name.py
-4] Enter the input in the console
-5] Verify the results.
+    1] Open Terminal
+    2] Change directory to project folder
+    3] Enter the command: python file_name.py
+    4] Enter the input in the console
+    5] Verify the results.
 
 [Salary Scribe.docx](https://github.com/user-attachments/files/18282421/Salary.Scribe.docx)
 
